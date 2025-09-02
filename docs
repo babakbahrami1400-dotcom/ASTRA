@@ -1,0 +1,11 @@
+:root {
+  --bg: #0f1720;
+  --accent: #4caf50;
+  /* بقیه‌ی کدها... */
+}
+body {
+  background: var(--bg);
+  color: #e6eef6;
+  font-family: "Vazirmatn", "Arial", sans-serif;
+}
+/* ادامه‌ی استایل‌ها... */
